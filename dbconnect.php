@@ -1,5 +1,5 @@
 <?php
-	$servername = "localhost";
+	$servername = "github";
 	$username = "root";
 	$password = "";
 	$db="homework_php";
